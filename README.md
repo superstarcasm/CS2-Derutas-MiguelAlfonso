@@ -7,4 +7,4 @@ This program takes the customer’s name, previous electricity reading, current 
 Input: Accepts the name, initial reading, and current reading.
 Process: Calculates and prints the electricity bill.
 Output: Electricity bill.
-Does not have input validation.
+Has input validations that ensure that there is data inputted and that they are the correct type.
