@@ -1,1 +1,10 @@
-# CS2-Derutas-MiguelAlfonso
+# Electricity Bill Calculator
+
+## Description
+This program takes the customer’s name, previous electricity reading, current reading, and calculates the electricity bill from it.
+
+### Version 1 - Original Code
+Input: Accepts the name, initial reading, and current reading.
+Process: Calculates and prints the electricity bill.
+Output: Electricity bill.
+Does not have input validation.
